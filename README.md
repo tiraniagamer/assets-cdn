@@ -1,16 +1,16 @@
-# MapsImages CDN for Counter Strike
-This repository contains high-resolution images (1920x1080) of **Counter-Strike maps** in multiple formats, hosted via [jsDelivr CDN](https://www.jsdelivr.com/).
+# Assets CDN
+This repository contains high-resolution images (1920x1080) of **Counter-Strike** in multiple formats, hosted via [jsDelivr CDN](https://www.jsdelivr.com/).
 
 ## 🔗 Usage
 You can access the images directly through jsDelivr using the following URL format:
 ```
-https://cdn.jsdelivr.net/gh/tiraniagaming/MapsImagesCDN-CS/{format}/{map}.{format}
+https://cdn.jsdelivr.net/gh/tiraniagaming/assets-cdn/{format}/{map}.{format}
 ```
 
 ### Examples
 ```
-https://cdn.jsdelivr.net/gh/tiraniagaming/MapsImagesCDN-CS/avif/de_mirage.avif
-https://cdn.jsdelivr.net/gh/tiraniagaming/MapsImagesCDN-CS/png/de_nuke.png
+https://cdn.jsdelivr.net/gh/tiraniagaming/assets-cdn/avif/de_mirage.avif
+https://cdn.jsdelivr.net/gh/tiraniagaming/assets-cdn/png/de_nuke.png
 ```
 
 ## 📂 Repository Structure
