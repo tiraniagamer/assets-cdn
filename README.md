@@ -4,13 +4,13 @@ This repository contains high-resolution images (1920x1080) of **Counter-Strike*
 ## 🔗 Usage
 You can access the images directly through jsDelivr using the following URL format:
 ```
-https://cdn.jsdelivr.net/gh/tiraniagaming/assets-cdn/{format}/{map}.{format}
+https://cdn.jsdelivr.net/gh/tiraniagamer/assets-cdn/{format}/{map}.{format}
 ```
 
 ### Examples
 ```
-https://cdn.jsdelivr.net/gh/tiraniagaming/assets-cdn/avif/de_mirage.avif
-https://cdn.jsdelivr.net/gh/tiraniagaming/assets-cdn/png/de_nuke.png
+https://cdn.jsdelivr.net/gh/tiraniagamer/assets-cdn/avif/de_mirage.avif
+https://cdn.jsdelivr.net/gh/tiraniagamer/assets-cdn/png/de_nuke.png
 ```
 
 ## 📂 Repository Structure
